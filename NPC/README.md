@@ -12,11 +12,11 @@ To begin, the tutorial instructs you to visit the website confai.com and sign up
 
 ## Designing the AI Character
 
-Once you have created an account and logged in, you are directed to the dashboard. From here, you can create a new character by clicking on the "Create New Character" button. In this step, you are prompted to give your character a name. For example, the tutorial suggests the name "Jimmy".
+Once you have created an account and logged in, you are directed to the dashboard. From here, you can create a new character by clicking on the "Create New Character" button. In this step, you are prompted to give your character a name. For example, the tutorial suggests the name "Watson".
 
 Next, you need to decide how you want your character to sound. The tutorial suggests choosing a young U.S masculine voice for your character.
 
-After deciding the voice, you will write the backstory for your character. The backstory provides information that the AI will use to respond to questions. You can either manually write the backstory or use another AI tool like Watsonx.ai LLM to generate it. For example, the tutorial presents a generated backstory where the character used to be a ninja. You can use this generated backstory or write your own.
+After deciding the voice, you will write the backstory for your character. The backstory provides information that the AI will use to respond to questions. You can either manually write the backstory or use another AI tool like Watsonx.ai LLM to generate it. For example, the tutorial presents a generated backstory where the character used to be a Sales Assistant. You can use this generated backstory or write your own.
 
 Once you have entered the character's name, chosen the voice, and written the backstory, you can click on the "Create Character" button to proceed.
 
