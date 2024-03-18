@@ -4,7 +4,7 @@ In this tutorial, we will learn how to create a smart NPC (Non-Player Character)
 
 ## Introduction
 
-In the video, the tutorial begins with a brief introduction to the concept of creating a smart NPC using Watsonx.ai LLM. The NPC, named Kenji, is introduced as a ninja from a long line of renowned warriors, trained in stealth combat and precision since childhood.
+In this we brief introduction to the concept of creating a smart NPC using Watsonx.ai LLM. The NPC, named Watson.
 
 ## Getting Started
 
