@@ -1,4 +1,4 @@
-# Generative AI in 3D Virtual Reality
+# Generative AI in 3D Virtual - Augmented Reality 
 
 Welcome to our Generative AI in 3D Virtual Reality repository! In this project, we showcase a captivating demo application that generates immersive 360-degree 3D environments using Generative AI. By interacting with a Non-Player Character (NPC) powered by Watsonx.ai, users can request environments like, "Let me feel like I am at the beach," and the AI engine will create a 3D environment based on the given prompt.
 
